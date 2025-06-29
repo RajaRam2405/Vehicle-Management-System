@@ -1,3 +1,4 @@
+![Thumbnail](https://github.com/user-attachments/assets/4dfa4df1-d43f-4108-b81a-76ef1f579297)
 🚗 Vehicle Management System 🛠️
 A powerful PHP-based web application to manage vehicle details, services, mechanics, and customer bookings efficiently!
 
